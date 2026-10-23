@@ -1,0 +1,57 @@
+# Environment variables and secrets
+.env
+*.env
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# PDF Reports
+*.pdf
+reports/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm/
+
+# Frontend environment variables
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+
+# Logs
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+
+

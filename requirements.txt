@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+fpdf2
+python-dotenv
+httpx
+pytest
+pydantic
+langgraph
+langchain
+langchain-community
+langchain-ollama
+fastapi
+uvicorn
+python-multipart
